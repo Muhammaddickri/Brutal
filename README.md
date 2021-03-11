@@ -1,2 +1,2 @@
-![alt text](inages/logo.png)
+![alt text](images/logo.png)
 # Brutal
