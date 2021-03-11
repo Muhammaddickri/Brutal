@@ -26,10 +26,6 @@ def function(email,passw,i):
 		print('\npassword is : ',passw)
 		return True
 	return False
-
-print('\n---------- Welcome To Facebook BruteForce ----------\n')
-file=open('passwords.txt','r')
-
 email=input('Enter Email/Username : ')
 i=0
 while file:
