@@ -13,11 +13,6 @@ $ pip install -r requirements.txt
 $ git clone https://github.com/root-plinix/Brutal
 $ cd Brutal
 ```
-### use
-```
-$ python brutal.py -h
-$ python brutal.py -A <Gmail/ID code/Username>
-```
 ### Conclusion
 This program are created with 🖤🥀
 creat a issue for pull request.
