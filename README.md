@@ -1,7 +1,7 @@
 ![alt text](images/logo.png)
 ## Brutal
 Brutal is a facebook brute force programm its able can bypass
-Facebook security and can do brute force.
+Facebook security and can do brute force. And its able to make automatically passwords without any information.
 ### installation
 ```
 $ apt update
