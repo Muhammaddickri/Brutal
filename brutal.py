@@ -16,7 +16,7 @@ password = getpass.getpass("[ x ] Enter The FB Password :")
 victim = raw_input("[ x ] Enter The Victim ID   :")
 login = br.open("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email="+(username)+"&locale=en_US&password="+(password)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 login_data = json.load(login)
-login_data = login_data['access_token']
+login_data = login_data 'access_token'
 ss = open(".session.txt","w")
 ss.write(login_data)
 ss.close()
